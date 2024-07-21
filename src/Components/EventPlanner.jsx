@@ -1,6 +1,6 @@
 import React from 'react';
 import './EventPlanner.css'; // Import CSS file for styling
-import Footer from './Footer';
+import Footer from './footer';
 const EventPlanner = () => {
     return (
         <div className="event-planner-container">
